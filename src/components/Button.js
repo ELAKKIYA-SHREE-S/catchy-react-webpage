@@ -17,5 +17,4 @@ export const Button=({
             </button>
         </Link>
     )
-
 };
